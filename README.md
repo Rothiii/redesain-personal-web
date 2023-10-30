@@ -1,3 +1,3 @@
 # personal-web
 open it on
-[WEBSITE](https://rothiii.github.io/personal-web/)
+[With This LInk](https://rothiii.github.io/redesain-personal-web/)
